@@ -1,6 +1,6 @@
 Here is the link
-https://tyagiiujjawal.github.io/NitkkrUnofficial/
-Hosted Link on HOstinger : https://nitkkrunofficial.in/
+
+
 
 # Getting Started with Create React App
 
